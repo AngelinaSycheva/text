@@ -1,0 +1,11 @@
+ru:
+  validates_errors:
+    error:
+      one:
+      many:
+  activerecord:
+    game: "Игра"
+    score: "Счет"
+  attributes:
+      game: "Игра"
+      score: "Счет"
